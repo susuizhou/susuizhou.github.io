@@ -7,6 +7,14 @@
     </url>
 
     <url>
+        <loc>http://www.huweihuang.com/article/hello-world/</loc>
+        <lastmod>2019-08-21T18:06:37.527Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://www.huweihuang.com/article/ubuntu_hexo_github/</loc>
         <lastmod>2019-08-20T14:54:39.657Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -17,14 +25,6 @@
     <url>
         <loc>http://www.huweihuang.com/article/flask%E5%9F%BA%E7%A1%80/</loc>
         <lastmod>2019-08-18T17:37:16.747Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://www.huweihuang.com/article/hello-world/</loc>
-        <lastmod>2019-08-18T17:30:20.747Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
